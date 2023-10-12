@@ -28,3 +28,5 @@ Program TokoParfum adalah aplikasi sederhana untuk mengelola daftar parfum di se
 
 ### Collection
 - Program ini menggunakan "ArrayList" dari pustaka Java Collections Framework untuk menyimpan dan mengelola daftar parfum. "ArrayList" digunakan dalam kelas "JenisParfum" untuk menyimpan semua parfum yang tersedia di toko. Hal ini memungkinkan penambahan, pengeditan, dan penghapusan parfum dengan mudah.
+
+  
